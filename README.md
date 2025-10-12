@@ -38,7 +38,7 @@ Contributions to this repository are welcome! If you have any SQL code examples 
 Happy Coding!
 
 - What is a Databse?
-A database is an prganized collection of data that is stored and accessed electronically. Databasees are used to store, manage, and retrieve data efficiently. they are used in vrious applications, such as websites, mobile appps, and enterprise software.
+- A database is an prganized collection of data that is stored and accessed electronically. Databasees are used to store, manage, and retrieve data efficiently. they are used in vrious applications, such as websites, mobile appps, and enterprise software.
 - What is SQL?
 SQL (Structured Query Language) is a programming language used to manage and manipulate relational databases. SQL is used to create, modify, and query databases. It is a standard language used by most relational database management systems (RDBMS), such as MySQL, PostgreSQL, Oracle, and Microsoft SQL Server.
 
